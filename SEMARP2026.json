@@ -1,0 +1,21 @@
+{
+  "version": "2026.1",
+  "vigencia": "Valores homologados vigentes a marzo 2026 (ajuste aproximado sobre base 2025)",
+  "fuente": "Basado en tabuladores SEMAR vigentes enero 2025 + ajuste app",
+  "niveles": {
+    "nivel1": 18743.60,
+    "nivel2": 17581.10,
+    "nivel3": 16356.35,
+    "nivel4": 13679.90,
+    "nivel5": 13000.45,
+    "nivel6": 11837.60,
+    "nivel7": 10128.45,
+    "nivel8": 8963.65,
+    "nivel9": 8038.65,
+    "nivel10": 7296.60,
+    "nivel11": 6259.90,
+    "nivel12": 5917.50,
+    "nivel13": 5075.00,
+    "nivel14": 4587.15
+  }
+}
