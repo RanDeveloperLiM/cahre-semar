@@ -1,0 +1,12 @@
+{
+  "version": "2026.2",
+  "descripcion": "Histórico completo 2021-2026 (extraído de tabla oficial SEMAR)",
+  "historico": [
+    { "año": 2026, "vigencia": "1 ene 2026", "niveles": { "nivel1":18743.65,"nivel2":17581.10,"nivel3":16356.35,"nivel4":14227.10,"nivel5":13000.45,"nivel6":11837.60,"nivel7":10128.45,"nivel8":8963.65,"nivel9":8038.60,"nivel10":7563.45,"nivel11":6586.50,"nivel12":6385.35,"nivel13":5975.55,"nivel14":5750.25 } },
+    { "año": 2025, "vigencia": "1 ene 2025", "niveles": { "nivel1":18022.73,"nivel2":16904.89,"nivel3":15727.24,"nivel4":13679.90,"nivel5":12500.44,"nivel6":11382.28,"nivel7":9738.92,"nivel8":8618.90,"nivel9":7729.44,"nivel10":7272.58,"nivel11":6333.16,"nivel12":6139.78,"nivel13":5745.74,"nivel14":5529.08 } },
+    { "año": 2024, "vigencia": "1 ene 2024", "niveles": { "nivel1":18022.73,"nivel2":16904.89,"nivel3":15727.24,"nivel4":13679.90,"nivel5":12500.44,"nivel6":11382.28,"nivel7":9738.92,"nivel8":8618.90,"nivel9":7729.44,"nivel10":7272.58,"nivel11":6333.16,"nivel12":6139.78,"nivel13":5745.74,"nivel14":5529.08 } },
+    { "año": 2023, "vigencia": "1 ene 2023", "niveles": { "nivel1":16348.65,"nivel2":15334.60,"nivel3":14266.35,"nivel4":12409.20,"nivel5":11339.30,"nivel6":10325.00,"nivel7":8834.30,"nivel8":7818.30,"nivel9":7011.45,"nivel10":6597.00,"nivel11":5744.80,"nivel12":5569.45,"nivel13":5212.00,"nivel14":5015.45 } },
+    { "año": 2022, "vigencia": "1 ene 2022", "niveles": { "nivel1":16348.65,"nivel2":15334.60,"nivel3":14266.35,"nivel4":12409.20,"nivel5":11339.30,"nivel6":10325.00,"nivel7":8834.30,"nivel8":7818.30,"nivel9":7011.45,"nivel10":6597.00,"nivel11":5744.80,"nivel12":5569.45,"nivel13":5212.00,"nivel14":5015.45 } },
+    { "año": 2021, "vigencia": "1 ene 2021", "niveles": { "nivel1":15795.80,"nivel2":14816.05,"nivel3":13783.90,"nivel4":11989.55,"nivel5":10955.85,"nivel6":9975.85,"nivel7":8535.55,"nivel8":7553.85,"nivel9":6774.35,"nivel10":6373.90,"nivel11":5550.55,"nivel12":5381.10,"nivel13":5035.75,"nivel14":4845.85 } }
+  ]
+}
